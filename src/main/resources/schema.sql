@@ -1,0 +1,2 @@
+create table tbl_user (id bigint not null AUTO_INCREMENT, apellido varchar(255), email varchar(255), genero varchar(255), nombre varchar(255), password varchar(255), rol varchar(255), primary key (id));
+CREATE SEQUENCE myDbSeq START WITH 1 INCREMENT BY 1;

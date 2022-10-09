@@ -1,0 +1,4 @@
+insert into tbl_user(nombre, apellido, email, password, genero, rol) 
+values ('jose', 'salinas', 'jsalinasmagallanes@gmail.com', '1234', 'masculino', 'user');
+insert into tbl_user(nombre, apellido, email, password, genero, rol) 
+values ('verioska', 'ramirez', 'rverioska01@gmail.com', '12345', 'femenino', 'admin');
