@@ -1,1 +1,1 @@
-web: java -jar --Dserver.port=$PORT target/api.jar
+web: java -jar -Dserver.port=$PORT target/api.jar
